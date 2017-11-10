@@ -1,3 +1,3 @@
 function shout(string) {
-  return tuUpperCase(string)
+  return string.toUpperCase()
 }
